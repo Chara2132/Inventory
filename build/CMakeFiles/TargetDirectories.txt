@@ -1,0 +1,3 @@
+/home/Anonimo/Desktop/Script/Progetti/Inventory/src/build/CMakeFiles/inventory_app.dir
+/home/Anonimo/Desktop/Script/Progetti/Inventory/src/build/CMakeFiles/edit_cache.dir
+/home/Anonimo/Desktop/Script/Progetti/Inventory/src/build/CMakeFiles/rebuild_cache.dir

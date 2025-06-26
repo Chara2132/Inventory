@@ -1,0 +1,22 @@
+window {
+    background-color: #f9f9f9;
+}
+
+button {
+    background-color: #007ACC;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+entry {
+    padding: 6px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+label {
+    font-weight: bold;
+    
+}
